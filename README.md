@@ -7,5 +7,5 @@ On almost all runs it was interesting to note that there seemed to be a much hig
 
 Below is a sample run across 150 epochs.
 
-!GAN_gif(https://github.com/dontaskimmad/GAN_test/blob/main/GAN/dcgan.gif?raw=true)
+![GAN_gif](https://github.com/dontaskimmad/GAN_test/blob/main/GAN/dcgan.gif?raw=true)
 
